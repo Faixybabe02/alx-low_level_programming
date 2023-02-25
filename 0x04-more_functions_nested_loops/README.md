@@ -1,8 +1,7 @@
+
 # More functions, more nested loops
 
-
 Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about nested loops in **C language**.
-
 
 ## Technologies
 
@@ -12,11 +11,9 @@ Project done during **Full Stack Software Engineering studies** at **ALX School*
 
 * Tested on Ubuntu 14.04 LTS
 
-
 ## Files
 
 All of the following files are programs written in C:
-
 
 | Filename | Description |
 
